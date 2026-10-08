@@ -44,7 +44,7 @@ This is a **learn-in-public** project. My daily rhythm:
 | 00 | [PyTorch Fundamentals](./00_pytorch_fundamentals) | Tensors, autograd, building an MLP, parameters & seeds | ✅ Done |
 | 01 | [Tokenization & Data](./01_tokenization) | Simple tokenizer, BPE (tiktoken), dataloaders, embeddings | ✅ Done |
 | 02 | [Attention Mechanisms](./02_attention) | Self-attention from scratch, attention scores | ✅ Done |
-| 03 | Transformer Block | Multi-head attention, layer norm, feed-forward | ⏳ Planned |
+| 03 | Transformer Block | Multi-head attention, layer norm, feed-forward | ✅ Done |
 | 04 | GPT Model | Assembling the full GPT architecture | ⏳ Planned |
 | 05 | Pretraining | Training loop, loss, text generation | ⏳ Planned |
 | 06 | Fine-tuning | Classification & instruction fine-tuning | ⏳ Planned |
