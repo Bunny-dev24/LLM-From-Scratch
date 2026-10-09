@@ -44,9 +44,9 @@ This is a **learn-in-public** project. My daily rhythm:
 | 00 | [PyTorch Fundamentals](./00_pytorch_fundamentals) | Tensors, autograd, building an MLP, parameters & seeds | ✅ Done |
 | 01 | [Tokenization & Data](./01_tokenization) | Simple tokenizer, BPE (tiktoken), dataloaders, embeddings | ✅ Done |
 | 02 | [Attention Mechanisms](./02_attention) | Self-attention from scratch, attention scores | ✅ Done |
-| 03 | Transformer Block | Multi-head attention, layer norm, feed-forward | ✅ Done |
-| 04 | GPT Model | Assembling the full GPT architecture | ⏳ Planned |
-| 05 | Pretraining | Training loop, loss, text generation | ⏳ Planned |
+| 03 | [Transformer Block](./03_transformers) | Multi-head attention, layer norm, feed-forward | ✅ Done |
+| 04 | [GPT Model](./03_transformers) | Assembling the full GPT architecture | ✅ Done |
+| 05 | [Pretraining](./04_pretraining_and_loss_evaluation) | Training loop, loss, text generation | ⏳ Planned |
 | 06 | Fine-tuning | Classification & instruction fine-tuning | ⏳ Planned |
 
 ---
@@ -59,6 +59,8 @@ LLM-From-Scratch/
 ├── 00_pytorch_fundamentals/     # PyTorch basics: autograd, MLPs
 ├── 01_tokenization/             # Tokenizers, BPE, dataloaders, embeddings
 ├── 02_attention/                # Attention mechanisms from scratch
+├── 03_transformers/             # Transformer block + full GPT model
+├── 04_pretraining_and_loss_evaluation/  # Loss, training loop, GPT-2 weights
 ├── assets/                      # Images & diagrams for notes
 ├── requirements.txt            # Python dependencies
 └── README.md
