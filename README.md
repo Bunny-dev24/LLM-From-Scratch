@@ -46,7 +46,7 @@ This is a **learn-in-public** project. My daily rhythm:
 | 02 | [Attention Mechanisms](./02_attention) | Self-attention from scratch, attention scores | ✅ Done |
 | 03 | [Transformer Block](./03_transformers) | Multi-head attention, layer norm, feed-forward | ✅ Done |
 | 04 | [GPT Model](./03_transformers) | Assembling the full GPT architecture | ✅ Done |
-| 05 | [Pretraining](./04_pretraining_and_loss_evaluation) | Training loop, loss, text generation | ⏳ Planned |
+| 05 | [Pretraining](./04_pretraining_and_loss_evaluation) | Training loop, loss, text generation | ✅ Done |
 | 06 | Fine-tuning | Classification & instruction fine-tuning | ⏳ Planned |
 
 ---
